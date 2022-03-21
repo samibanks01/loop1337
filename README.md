@@ -1,7 +1,7 @@
 <p align=”center”>
 
-<img width=”200" height=”200" src=”https://user-images.githubusercontent.com/61188554/159229231-33f82f3b-8541-4107-9c69-6cd5687412b6.png" alt=”my banner”>
-
+<!-- <img width=”200" height=”200" src=”https://user-images.githubusercontent.com/61188554/159229231-33f82f3b-8541-4107-9c69-6cd5687412b6.png" alt=”my banner”> -->
+![gitpage](https://user-images.githubusercontent.com/61188554/159235162-71af6450-de69-4275-917d-dcdedac8f14d.png)
 </p>
 
 <h2 align="center">
