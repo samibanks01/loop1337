@@ -9,7 +9,7 @@
 ### Hi there 👋 I'm a Full-Stack Web Developer 💻 and a Friend!
 </h2>
 
-<h3 align="center">Known for excellent client-facing skills, I have participated in proposals and presentations that have landed six-figure contracts. I also excel in merging business and user needs into high-quality, cost-effective design solutions while keeping within budgetary constraints.
+<h3 align="center">I am known for excellent client-facing skills, I have participated in proposals and presentations that have landed six-figure contracts. I also excel in merging business and user needs into high-quality, cost-effective design solutions while keeping within budgetary constraints.
 </h4>
 
 ## 🔭 I'm currently working on
@@ -55,6 +55,8 @@
 </h5>
 
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Meetup](https://img.shields.io/badge/Meetup-f64363?style=for-the-badge&logo=meetup&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 </br>
 ## 📈 GitHub Stats
